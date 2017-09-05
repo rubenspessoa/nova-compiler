@@ -99,5 +99,5 @@ Author: Barros Filho, Rubens. 17/09/2016
 
 ## Code examples
 
-### There are code examples in the repository.
+### There are code examples in this repository.
 
